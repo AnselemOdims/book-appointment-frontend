@@ -8,36 +8,11 @@
 
 [Book Appoinments Backend](https://github.com/Chimwemwe-127001/book-appointment-backend)
 
-## Kanban Board
-[Kanban Board](https://github.com/users/Chimwemwe-127001/projects/3)
 
-## Initial state of kanban board
-[Initial Kanban Board](https://github.com/Chimwemwe-127001/book-appointment-frontend/issues/13)
+## Mini Demo:
+![doctors](https://user-images.githubusercontent.com/43995830/174046991-6067e94a-5bbe-437b-8528-4478a09d91a8.gif)
 
-> ***We are a group of five***
-1. Team 1 - [Chimwemwe-127001](https://github.com/Chimwemwe-127001)
-2. Team 2 - [Ranjeet](https://github.com/thecodechaser )
-3. Team 3 - [Ellis](https://github.com/mwanawabangona)
-4. Team 4 - [Ritta](https://github.com/Buyaki01)
-5. Team 5 - [Anselem](https://github.com/AnselemOdims )
 
-## Preview:
-
-### Home Page
-
-![screenshot](./src/assets/images/homepage.png)
-
-### Details Page
-
-![screenshot](./src/assets/images/details-page.png)
-
-### Book Appoinments Page
-
-![screenshot](./src/assets/images/book-reserve.png)
-
-### Appointments Page
-
-![screenshot](./src/assets/images/reservations.png)
 
 ## Built With
 
@@ -106,17 +81,17 @@ npm run test
 
 ## Authors
 
-👤 **Ranjeet Singh**
-
-- GitHub: [@thecodechaser](https://github.com/thecodechaser)
-- Twitter: [@thecodechaser](https://twitter.com/thecodechaser)
-- LinkedIn: [thecodechaser](https://linkedin.com/in/thecodechaser)
-
 👤 **ANSELEM ODIMEGWU**
 
 - GitHub: [@AnselemOdims](https://github.com/AnselemOdims)
 - LinkedIn: [Anselem Odimegwu](https://www.linkedin.com/in/anselem-odimegwu/)
 - Email: anselemcloud@gmail.com
+
+👤 **Ranjeet Singh**
+
+- GitHub: [@thecodechaser](https://github.com/thecodechaser)
+- Twitter: [@thecodechaser](https://twitter.com/thecodechaser)
+- LinkedIn: [thecodechaser](https://linkedin.com/in/thecodechaser)
 
 👤 **Chimwemwe Sinyinza**
 
